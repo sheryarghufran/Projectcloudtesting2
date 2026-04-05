@@ -1,4 +1,4 @@
-import { useState, useCallback, useRef, useEffect } from "react";
+import React, { useState, useCallback, useRef, useEffect } from "react";
 
 const BRAND = "Project Cloud";
 const MODEL = "gpt-5.4";
